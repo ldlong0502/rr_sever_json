@@ -1,0 +1,120 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Vân đài loại ngữ",
+      "image": "http://i307.photobucket.com/albums/nn310/tamchec/Ebook%20Cover/cover.jpeg",
+      "author": "Lê Quý Đôn",
+      "year": 1973,
+      "view": "3256",
+      "publisher": "Phủ Quốc Vụ Khanh Đặc Trách Văn hóa",
+      "genre": [
+        "Văn học"
+      ],
+      "pages": "556",
+      "description": "Vân đài loại ngữ (芸臺類語) là một tác phẩm viết bằng chữ Hán vào năm 1773 của học giả người Việt Nam là Lê Quý Đôn. Tiêu đề của tác phẩm có thể hiểu là Phân loại Lời nói từ Văn Đài hoặc Thư viện phân loại ngôn từ. Nội dung tác phẩm bị ảnh hưởng nhiều bởi tư tưởng Tống Nho.",
+      "epub": "https://drive.google.com/uc?export=download&id=1NUiSySGwkG9a1YGVN6IpOQ-F6niQlYbd",
+      "createdAt": 1677034976354
+    },
+    {
+      "id": 2,
+      "title": "Sau Dẫy Trường Sơn",
+      "image": "http://i307.photobucket.com/albums/nn310/tamchec/Ebook%20Cover/45a2c028-f5aa-4cad-a0ee-8f25aa2f0274.jpg",
+      "author": "Lê Văn Sâm",
+      "year": 1949,
+      "view": "852",
+      "publisher": "Nam-Việt",
+      "genre": [
+        "Truyện"
+      ],
+      "pages": "64",
+      "description": "Nội dung truyện kể về cậu bé Quý. Khi lãnh việc xây một phi trường ở một miền rừng núi Ai Lao cho quân đội Nhật, con Phú là Quý một cậu bé mười sáu tuổi, lớn trước tuổi. Một đêm Phou Ta Cốc một nhà cách mạng trước khi chết trao Phú một bản đồ bí mật. Tùy, bạn Phú tưởng đó là một bản đồ chỉ chỗ kho tàng nên lén ám hại Quý, nhưng Quý không chết, về sau chiếm một cứ điểm hiểm yếu để chống lại quân Nhật. Ít lâu sau hai cha con được trùng phùng để rồi, để ích lợi thiết thực cho Quốc gia, Phú tiễn con ra đi cứu nước.",
+      "epub": "https://drive.google.com/uc?export=download&id=1edQ30TZ4iNQ96V_ubbXoyr3eoqQIyU6j",
+      "createdAt": 1677034983125
+    },
+    {
+      "id": 3,
+      "title": "Tiếu Lâm Việt Nam",
+      "image": "https://www.dtv-ebook.com/images/cover_1/tieu-lam-viet-nam-cu-ta.jpg",
+      "author": "Cử Tạ",
+      "year": 1968,
+      "view": "496",
+      "publisher": "Nhà sách KHAI TRÍ",
+      "genre": [
+        "Văn học"
+      ],
+      "pages": "152",
+      "description": "Nội dung truyện kể về cậu bé Quý. Khi lãnh việc xây một phi trường ở một miền rừng núi Ai Lao cho quân đội Nhật, con Phú là Quý một cậu bé mười sáu tuổi, lớn trước tuổi. Một đêm Phou Ta Cốc một nhà cách mạng trước khi chết trao Phú một bản đồ bí mật. Tùy, bạn Phú tưởng đó là một bản đồ chỉ chỗ kho tàng nên lén ám hại Quý, nhưng Quý không chết, về sau chiếm một cứ điểm hiểm yếu để chống lại quân Nhật. Ít lâu sau hai cha con được trùng phùng để rồi, để ích lợi thiết thực cho Quốc gia, Phú tiễn con ra đi cứu nước.",
+      "epub": "https://drive.google.com/uc?export=download&id=1IiQF89-duCMy8Bev348iPf7tNjlJhX6T",
+      "createdAt": 1677034984845
+    },
+    {
+      "id": 4,
+      "title": "Cho Tôi Xin Một Vé Đi Tuổi Thơ",
+      "image": "https://isach.info/images/story/cover/cho_toi_xin_mot_ve_di_tuoi_tho__nguyen_nhat_anh.jpg",
+      "author": "Nguyễn Nhật Ánh",
+      "year": 2008,
+      "view": "5350",
+      "publisher": "Nhà xuất bản Trẻ",
+      "genre": [
+        "Truyện",
+        "Tiểu thuyết"
+      ],
+      "pages": "218",
+      "description": "Cho Tôi Xin Một Vé Đi Tuổi Thơ - Tác giả Nguyễn Nhật Ánh tái hiện lại tuổi thơ dữ dội qua nhiều trò chơi mang tính hồn nhiên.",
+      "epub": "https://drive.google.com/uc?export=download&id=1venetQ0o4YSo2sAglpD4tidXlP-2gD4a",
+      "createdAt": 1677034986381
+    },
+    {
+      "id": 5,
+      "title": "Tạo Hóa Chi Vương",
+      "image": "https://www.nae.vn/ttv/ttv/public/images/story/ca5569ff2eab8dcea4e17d3ba94400e8f4440d2294fa16153ef66faf6a745992.jpg",
+      "author": "Trư Tam Bất",
+      "year": 2008,
+      "view": "5350",
+      "publisher": "none",
+      "genre": [
+        "Tiên hiệp",
+        "Huyền Huyễn"
+      ],
+      "pages": "3433",
+      "description": "Trong vòng một đêm, thiếu niên Diệp Chân đột nhiên phát hiện mình đã có được một hạng kỳ dị năng lực! Trong núi trùng thú cái kia không có ý nghĩa tiếng kêu, truyền vào hắn trong tai, liền trở nên không giống nhau lắm. Con chuột huynh đệ chi chi kêu: Huynh đệ, phía sau núi bên trong có thể làm cho chúng ta hình thể tăng trưởng mấy chục lần bảo bối nhanh nhỏ xuống, đi mau! Một đám con muỗi đang líu ríu: Cái kia hai tên gia hỏa lại tại trong rừng cây cởi hết, các huynh đệ, nhanh lên, hút trọn vẹn! Một cái Vân Dực hổ con đối mặt Diệp Chân phát ra một tiếng lại một tiếng chấn động tâm hồn hổ gầm: Mụ mụ không ở nhà, đừng tới đây, lại tới ăn ngươi! Hết thảy, đều bởi vậy cải biến!",
+      "epub": "https://drive.google.com/uc?export=download&id=1qLMpz_54i5XWW5QR5XpfqfH78GEWrZ3T",
+      "createdAt": 1677034988627
+    },
+    {
+      "id": 6,
+      "title": "Thông Thiên Chi Lộ",
+      "image": "https://www.dtv-ebook.com/images/truyen-online/ThongThienChiLo1_zpsec95766a.jpg",
+      "author": "Vô Tội",
+      "year": 1969,
+      "view": "5350",
+      "publisher": "none",
+      "genre": [
+        "Tiên hiệp",
+        "Huyền Huyễn"
+      ],
+      "pages": "1287",
+      "description": "Thông thiên luôn là con đường mơ ước của những người tu chân từ bao đời. Tu kiếm, tu trận, tu bằng đơn dược hay song tu… tất cả đều hướng đến con đường là thông thiên, vươn tới trời cao. Hắn, chỉ là một tán tu nhỏ nhoi trong ngôi thành nhỏ, bị gạt gẫm mua đồ rởm nhưng vô tình lại nhờ đó bước lên con đường trở thành cường giả thông thiên. Nàng, là đệ nhất mỹ nữ của đại lục, được vô số thanh niên tài tuấn ngưỡng mộ nhưng rồi cuối cùng cũng về bên hắn. Nàng, là mỹ nữ băng tuyết nổi danh, hết lòng vì sư muội, nhờ duyên trời đưa đẩy mà đến bên hắn. Nàng là đại tu sĩ lừng lẫy một phương, cũng vì một lần gặp gỡ mà bước cùng con đường với hắn.",
+      "epub": "https://drive.google.com/uc?export=download&id=1155WHh1TveZWPdmgiLkGt5f0Y4gdc-GH",
+      "createdAt": 1677034990244
+    },
+    {
+      "id": 7,
+      "title": "Tiểu Lang Quân Như Ý",
+      "image": "https://www.dtv-ebook.com/images/files_2/2023/012023/tieu-lang-quan-nhu-y.jpg",
+      "author": "Vinh Tiểu Vinh",
+      "year": 2006,
+      "view": "4520",
+      "publisher": "none",
+      "genre": [
+        "Xuyên không",
+        "Tiểu thuyết"
+      ],
+      "pages": "50",
+      "description": "21 thế kỷ hai bằng thạc sĩ, hồn xuyên về cổ đại. Không có nhẫn, không có hệ thống, không có râu bạc lão gia gia, liền về thế giới này ký ức đều không có…… Tặc ông trời, bắt đầu cái gì đều không có, liền chính mình là ai cũng không biết, cái này làm cho ta như thế nào chơi? Trong bụng đói khát khó nhịn, trong lòng buồn bực tột đỉnh, đường ninh nhịn không được ngẩng đầu giơ ngón tay giữa lên: “Tặc……” Có một vật từ trên trời bay tới, ở giữa cái trán. Ôm đỏ thẫm tú cầu, té xỉu phía trước, hắn chỉ nghĩ hỏi một câu: “Cái nào sát ngàn đao cấp tú cầu tắc cục đá!” Lại mở mắt ra khi…… Có nha hoàn lúm đồng tiền như hoa: “Cô gia, tiểu thư cho mời!” Có nữ tử mặt mày như họa: “Tướng công, thiếp thân có lễ!”",
+      "epub": "https://drive.google.com/uc?export=download&id=17bWnMIZiu_G_VgMuvwmfIf63rH1S3Pu4",
+      "createdAt": 1677034992099
+    }
+  ]
+}

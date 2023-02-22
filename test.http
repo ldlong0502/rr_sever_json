@@ -1,0 +1,46 @@
+@baseUrl = http://localhost:3000/api
+# Books
+# @name getBooks
+GET {{baseUrl}}/books
+
+###
+# @name addnewBook
+POST {{baseUrl}}/books
+Content-Type: application/json
+
+{
+    "title": "Vân đài loại ngữ",
+    "image": "http://i307.photobucket.com/albums/nn310/tamchec/Ebook%20Cover/cover.jpeg",
+    "author": "Lê Quý Đôn",
+     "year": 1973,
+    "view": "3256",
+    "publisher": "Phủ Quốc Vụ Khanh Đặc Trách Văn hóa",
+    "genre": [
+        "Văn học"
+    ],
+    "pages": "556",
+    "description": "Vân đài loại ngữ (芸臺類語) là một tác phẩm viết bằng chữ Hán vào năm 1773 của học giả người Việt Nam là Lê Quý Đôn. Tiêu đề của tác phẩm có thể hiểu là Phân loại Lời nói từ Văn Đài hoặc Thư viện phân loại ngôn từ. Nội dung tác phẩm bị ảnh hưởng nhiều bởi tư tưởng Tống Nho.",
+    "epub": "https://drive.google.com/uc?export=download&id=1NUiSySGwkG9a1YGVN6IpOQ-F6niQlYbd"
+}
+
+###
+# @name updateNewBook
+PATCH  {{baseUrl}}/books/7
+Content-Type: application/json
+
+{
+    
+}
+
+###
+# @name deleteBook
+DELETE   {{baseUrl}}/books/8
+Content-Type: application/json
+
+{
+    
+}
+
+
+
+
