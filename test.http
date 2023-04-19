@@ -9,18 +9,19 @@ POST {{baseUrl}}/books
 Content-Type: application/json
 
 {
-    "title": "Vân đài loại ngữ",
-    "image": "http://i307.photobucket.com/albums/nn310/tamchec/Ebook%20Cover/cover.jpeg",
-    "author": "Lê Quý Đôn",
-     "year": 1973,
-    "view": "3256",
-    "publisher": "Phủ Quốc Vụ Khanh Đặc Trách Văn hóa",
+    "title": "Số Đỏ",
+    "image": "https://isach.info/images/story/cover/so_do__vu_trong_phung.jpg",
+    "author": "Vũ Trọng Phụng",
+     "year": "2017",
+    "view": "635",
+    "publisher": "Nhà xuất bản Văn học",
     "genre": [
+        "Truyện",
         "Văn học"
     ],
-    "pages": "556",
-    "description": "Vân đài loại ngữ (芸臺類語) là một tác phẩm viết bằng chữ Hán vào năm 1773 của học giả người Việt Nam là Lê Quý Đôn. Tiêu đề của tác phẩm có thể hiểu là Phân loại Lời nói từ Văn Đài hoặc Thư viện phân loại ngôn từ. Nội dung tác phẩm bị ảnh hưởng nhiều bởi tư tưởng Tống Nho.",
-    "epub": "https://drive.google.com/uc?export=download&id=1NUiSySGwkG9a1YGVN6IpOQ-F6niQlYbd"
+    "pages": "319",
+    "description": "Số đỏ là một tiểu thuyết văn học của nhà văn Vũ Trọng Phụng, đăng ở Hà Nội báo từ số 40 ngày 7 tháng 10 1936 và được in thành sách lần đầu vào năm 1938. Nhiều nhân vật và câu nói trong tác phẩm đã đi vào cuộc sống đời thường và tác phẩm đã được dựng thành kịch, phim. Nhân vật chính của Số đỏ là Xuân - biệt danh là Xuân Tóc đỏ, từ chỗ là một kẻ bị coi là hạ lưu, bỗng nhảy lên tầng lớp danh giá của xã hội nhờ trào lưu Âu hóa của giới tiểu tư sản Hà Nội khi đó. Tác phẩm Số đỏ, cũng như các tác phẩm khác của Vũ Trọng Phụng đã từng bị cấm lưu hành tại Việt Nam Dân chủ Cộng hòa trước năm 1975 cũng như tại Việt Nam thống nhất cho đến năm 1986",
+    "epub": "https://drive.google.com/uc?export=download&id=1pqNfvKri0v9O2eELX6Gi5dNAylq2bHEx"
 }
 
 ###
