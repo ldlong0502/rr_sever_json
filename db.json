@@ -121,7 +121,7 @@
       "image": "https://sachmoi.net/wp-content/uploads/2017/11/tam-quoc-dien-nghia-pdf-105x168.jpg",
       "author": "La Quán Trung",
       "year": "TK XIV",
-      "view":8526,
+      "view": 8526,
       "publisher": "",
       "genre": [
         "Kiếm hiệp",
@@ -279,76 +279,137 @@
     },
     {
       "id": 2,
-      "title": "Cà Phê Đợi Một Người",
-      "image": "https://img.dtruyen.com/public/images/large/caphedoimotnguoiVQoVKhkkkJ.jpg",
-      "author": "Cửu Bá Đao",
+      "title": "Đất Lửa",
+      "image": "https://www.dtv-ebook.com/images/files_2/2020/dat-lua.jpg",
+      "author": "Nguyễn Quang Sáng",
       "year": "----",
-      "listen": 20,
-      "publisher": "NXB Hội Nhà Văn",
+      "listen": 34,
+      "publisher": "NXB Trẻ",
       "genre": [
-        "Truyện",
-        "Ngôn Tình"
+        "Văn học",
+        "Tiểu thuyết"
       ],
-      "description": "Trạch Vu đang đợi một người con gái mà trước mặt người ấy anh không phải nguỵ trang. Bách Giai đang đợi một người con trai mà cậu ấy không phải chịu áp lực lựa chọn.A Thác đang đợi một cô gái tốt biết cách trân trọng bản chất thuần phác của anh. Còn tôi giờ đang đi đến đoạn vĩ thanh của bài toán sắp xếp tổ hợp tình yêu này. Trong quán cà phê Đợi Một Người, bên những tách cà phê hương vị khác nhau, chúng tôi đều đang đợi lời giải cho bài toán trái tim mình.",
+      "description": "Câu chuyện xảy ra tại làng Mỹ Long Hưng thuộc quận Chợ Mới tỉnh An Giang trong giai đoạn đầu kháng chiến chông Pháp (1945 – 1954). Nhân vật chính trong truyện là Tư Trịnh, một người đã từng tham gia khởi nghĩa Nam kỳ, sau bị thất bại, phải trôn tránh giặc Pháp. Trong thời gian trốn tránh, với sự hoang mang ông đã tham gia đạo Hào Hảo và trở thành người trong Ban trị sự đạo tại địa phương. Cách mạng tháng Tám thành công, Sáu Sỏi – người lãnh đạo cuộc khởi nghĩa Nam kỳ tại địa phương từ Công Đảo trở về, làm chủ tịch Việt Minh huyện, trực tiếp lãnh đạo chính quyền tại Mỹ Long Hưng. Tư Trịnh, dưới sự giật giây của bọn tề ấp và bọn Việt gian lẫn bọn cai trị Pháp đã rat ay sát hại Sáu Sỏi, tạo nên mối hiềm khích lớn lao giữa tín đồ Hòa Hảo và Việt Minh. Toàn bộ câu chuyện là sự đấu tranh giằng xé trong nội bộ người dân, trong nội bộ Việt Minh về chính nghĩa và phi chính nghĩa. Câu chuyện không có hồi kết, mở ra con đường đấu tranh gian khổ để đến với cách mạng của những người nông dân Nam bộ.",
       "mp3": [
         {
-          "title": "Chương 1: Quán cà phê đợi một người",
-          "url": "https://firebasestorage.googleapis.com/v0/b/shop-app-d4dff.appspot.com/o/mp3%2FC%C3%A0%20Ph%C3%AA%20%C4%90%E1%BB%A3i%20M%E1%BB%99t%20Ng%C6%B0%E1%BB%9Di%2FC%C3%A0%20Ph%C3%AA%20%C4%90%E1%BB%A3i%20M%E1%BB%99t%20Ng%C6%B0%E1%BB%9Di%20(1).mp3?alt=media&token=06965099-2796-428c-9414-5e421f17117b"
+          "title": "Phần 1",
+          "url": "https://firebasestorage.googleapis.com/v0/b/shop-app-d4dff.appspot.com/o/mp3%2F%C4%90%E1%BA%A5t%20L%E1%BB%ADa%2F%C4%90%E1%BA%A5t%20L%E1%BB%ADa%20-%20Ph%E1%BA%A7n%201.mp3?alt=media&token=e623e5a1-1b59-4b07-baca-7acf83950591"
         },
         {
-          "title": "Chương 2: Người đó, trạch vu",
-          "url": "https://firebasestorage.googleapis.com/v0/b/shop-app-d4dff.appspot.com/o/mp3%2FC%C3%A0%20Ph%C3%AA%20%C4%90%E1%BB%A3i%20M%E1%BB%99t%20Ng%C6%B0%E1%BB%9Di%2FC%C3%A0%20Ph%C3%AA%20%C4%90%E1%BB%A3i%20M%E1%BB%99t%20Ng%C6%B0%E1%BB%9Di%20(2).mp3?alt=media&token=2eb86875-1795-46a5-a6ae-42c292c7fedd"
+          "title": "Phần 2",
+          "url": "https://firebasestorage.googleapis.com/v0/b/shop-app-d4dff.appspot.com/o/mp3%2F%C4%90%E1%BA%A5t%20L%E1%BB%ADa%2F%C4%90%E1%BA%A5t%20L%E1%BB%ADa%20-%20Ph%E1%BA%A7n%202.mp3?alt=media&token=8655cd5d-348e-4df3-be59-da0d731db85a"
         },
         {
-          "title": "Chương 3: Người đó, a thác",
-          "url": "https://firebasestorage.googleapis.com/v0/b/shop-app-d4dff.appspot.com/o/mp3%2FC%C3%A0%20Ph%C3%AA%20%C4%90%E1%BB%A3i%20M%E1%BB%99t%20Ng%C6%B0%E1%BB%9Di%2FC%C3%A0%20Ph%C3%AA%20%C4%90%E1%BB%A3i%20M%E1%BB%99t%20Ng%C6%B0%E1%BB%9Di%20(3).mp3?alt=media&token=0c6eeafb-53cb-441a-a10b-eba21f483123"
+          "title": "Phần 3",
+          "url": "https://firebasestorage.googleapis.com/v0/b/shop-app-d4dff.appspot.com/o/mp3%2F%C4%90%E1%BA%A5t%20L%E1%BB%ADa%2F%C4%90%E1%BA%A5t%20L%E1%BB%ADa%20-%20Ph%E1%BA%A7n%203.mp3?alt=media&token=245ccb2e-da3e-4a29-81ca-81c05507b4c3"
         },
         {
-          "title": "Chương 4: Đợi một người, bà chủ",
-          "url": "https://firebasestorage.googleapis.com/v0/b/shop-app-d4dff.appspot.com/o/mp3%2FC%C3%A0%20Ph%C3%AA%20%C4%90%E1%BB%A3i%20M%E1%BB%99t%20Ng%C6%B0%E1%BB%9Di%2FC%C3%A0%20Ph%C3%AA%20%C4%90%E1%BB%A3i%20M%E1%BB%99t%20Ng%C6%B0%E1%BB%9Di%20(4).mp3?alt=media&token=6b2b8c87-c72d-4b27-9b1a-22a376581ba6"
-        },
-        {
-          "title": "Chương 5: Khói lửa trên đê biển",
-          "url": "https://firebasestorage.googleapis.com/v0/b/shop-app-d4dff.appspot.com/o/mp3%2FC%C3%A0%20Ph%C3%AA%20%C4%90%E1%BB%A3i%20M%E1%BB%99t%20Ng%C6%B0%E1%BB%9Di%2FC%C3%A0%20Ph%C3%AA%20%C4%90%E1%BB%A3i%20M%E1%BB%99t%20Ng%C6%B0%E1%BB%9Di%20(5).mp3?alt=media&token=4cd855d7-5aeb-4eca-86ad-3bdf5613089e"
-        },
-        {
-          "title": "Chương 6: Tiệm giặt là và rạp chiếu phim",
-          "url": "https://firebasestorage.googleapis.com/v0/b/shop-app-d4dff.appspot.com/o/mp3%2FC%C3%A0%20Ph%C3%AA%20%C4%90%E1%BB%A3i%20M%E1%BB%99t%20Ng%C6%B0%E1%BB%9Di%2FC%C3%A0%20Ph%C3%AA%20%C4%90%E1%BB%A3i%20M%E1%BB%99t%20Ng%C6%B0%E1%BB%9Di%20(6).mp3?alt=media&token=c036407a-5a94-4931-82d1-3fac3f9aac00"
-        },
-        {
-          "title": "Chương 7: Caffeine cô quạnh",
-          "url": "https://firebasestorage.googleapis.com/v0/b/shop-app-d4dff.appspot.com/o/mp3%2FC%C3%A0%20Ph%C3%AA%20%C4%90%E1%BB%A3i%20M%E1%BB%99t%20Ng%C6%B0%E1%BB%9Di%2FC%C3%A0%20Ph%C3%AA%20%C4%90%E1%BB%A3i%20M%E1%BB%99t%20Ng%C6%B0%E1%BB%9Di%20(7).mp3?alt=media&token=1061b2e4-16ff-4020-a480-c9e0e7e809ba"
-        },
-        {
-          "title": "Chương 8: Tân sinh viên đại học giao thông",
-          "url": "https://firebasestorage.googleapis.com/v0/b/shop-app-d4dff.appspot.com/o/mp3%2FC%C3%A0%20Ph%C3%AA%20%C4%90%E1%BB%A3i%20M%E1%BB%99t%20Ng%C6%B0%E1%BB%9Di%2FC%C3%A0%20Ph%C3%AA%20%C4%90%E1%BB%A3i%20M%E1%BB%99t%20Ng%C6%B0%E1%BB%9Di%20(8).mp3?alt=media&token=d0ec87a0-8fcd-4eb6-b614-1299a22081ed"
-        },
-        {
-          "title": "Chương 9: Trong lòng mỗi người",
-          "url": "https://firebasestorage.googleapis.com/v0/b/shop-app-d4dff.appspot.com/o/mp3%2FC%C3%A0%20Ph%C3%AA%20%C4%90%E1%BB%A3i%20M%E1%BB%99t%20Ng%C6%B0%E1%BB%9Di%2FC%C3%A0%20Ph%C3%AA%20%C4%90%E1%BB%A3i%20M%E1%BB%99t%20Ng%C6%B0%E1%BB%9Di%20(9).mp3?alt=media&token=acc11ef1-421f-4652-820d-cf2624bd9fb5"
-        },
-        {
-          "title": "Chương 10: Cái cổ của đời người rất dài",
-          "url": "https://firebasestorage.googleapis.com/v0/b/shop-app-d4dff.appspot.com/o/mp3%2FC%C3%A0%20Ph%C3%AA%20%C4%90%E1%BB%A3i%20M%E1%BB%99t%20Ng%C6%B0%E1%BB%9Di%2FC%C3%A0%20Ph%C3%AA%20%C4%90%E1%BB%A3i%20M%E1%BB%99t%20Ng%C6%B0%E1%BB%9Di%20(10).mp3?alt=media&token=8910a9fd-3146-4a9b-91a8-459e235f3056"
-        },
-        {
-          "title": "Chương 11: Chín mươi chín, nước tiên thảo mật ong",
-          "url": "https://firebasestorage.googleapis.com/v0/b/shop-app-d4dff.appspot.com/o/mp3%2FC%C3%A0%20Ph%C3%AA%20%C4%90%E1%BB%A3i%20M%E1%BB%99t%20Ng%C6%B0%E1%BB%9Di%2FC%C3%A0%20Ph%C3%AA%20%C4%90%E1%BB%A3i%20M%E1%BB%99t%20Ng%C6%B0%E1%BB%9Di%20(11).mp3?alt=media&token=8d50d315-28af-41a0-89be-2152f42ab754"
-        },
-        {
-          "title": "Chương 12: Vòng tuần hoàn vô tận trùng hợp",
-          "url": "https://firebasestorage.googleapis.com/v0/b/shop-app-d4dff.appspot.com/o/mp3%2FC%C3%A0%20Ph%C3%AA%20%C4%90%E1%BB%A3i%20M%E1%BB%99t%20Ng%C6%B0%E1%BB%9Di%2FC%C3%A0%20Ph%C3%AA%20%C4%90%E1%BB%A3i%20M%E1%BB%99t%20Ng%C6%B0%E1%BB%9Di%20(12).mp3?alt=media&token=a488fc9a-9626-4525-8fc5-b317cd188795"
-        },
-        {
-          "title": "Chương 13: Đuổi theo",
-          "url": "https://firebasestorage.googleapis.com/v0/b/shop-app-d4dff.appspot.com/o/mp3%2FC%C3%A0%20Ph%C3%AA%20%C4%90%E1%BB%A3i%20M%E1%BB%99t%20Ng%C6%B0%E1%BB%9Di%2FC%C3%A0%20Ph%C3%AA%20%C4%90%E1%BB%A3i%20M%E1%BB%99t%20Ng%C6%B0%E1%BB%9Di%20(13).mp3?alt=media&token=fc2a290e-ddcf-4ff4-babc-f4a677d69803"
-        },
-        {
-          "title": "Chương 14: Mọi người, đều rất nhớ anh",
-          "url": "https://firebasestorage.googleapis.com/v0/b/shop-app-d4dff.appspot.com/o/mp3%2FC%C3%A0%20Ph%C3%AA%20%C4%90%E1%BB%A3i%20M%E1%BB%99t%20Ng%C6%B0%E1%BB%9Di%2FC%C3%A0%20Ph%C3%AA%20%C4%90%E1%BB%A3i%20M%E1%BB%99t%20Ng%C6%B0%E1%BB%9Di%20(14)End.mp3?alt=media&token=d35d597a-6275-40f9-accf-700946504cd5"
+          "title": "Phần 4 - end",
+          "url": "https://firebasestorage.googleapis.com/v0/b/shop-app-d4dff.appspot.com/o/mp3%2F%C4%90%E1%BA%A5t%20L%E1%BB%ADa%2F%C4%90%E1%BA%A5t%20L%E1%BB%ADa%20-%20Ph%E1%BA%A7n%204%20End.mp3?alt=media&token=eb5d0661-d44d-4651-b898-369bc0e6f0d9"
         }
       ],
       "createdAt": 0
+    },
+    {
+      "title": "Mười vạn câu hỏi vì sao - cơ thể người",
+      "image": "https://metaisach.com/wp-content/uploads/2019/09/10-van-cau-hoi-vi-sao-co-the-nguoi-mai-vinh-ngoc-lan.jpg",
+      "author": "Mai Vinh – Ngọc Lan",
+      "year": "----",
+      "listen": 63,
+      "publisher": "NXB Hồng Đức",
+      "genre": [
+        "Văn học",
+        "Tiểu thuyết"
+      ],
+      "description": "Cuốn sách “10 vạn câu hỏi vì sao thực vật” của tác giả Mai Vinh – Ngọc Lan là một cuốn sách thuộc bộ sách gồm quyển về Mười vạn câu hỏi, được biên soạn bởi đội ngũ đông đảo các nhà khoa học đầu ngành của Trung Quốc. Sách dùng hình thức trả lời câu hỏi để giới thiệu, giải đáp những vấn đề liên quan đến cơ thể con người, từ dễ đến khó, từ cạn đến sâu. Bằng ngôn ngữ dễ hiểu, sinh động, với cách đặt câu hỏi phù hợp với thắc mắc của đa số thanh thiếu niên, cuốn sách đem đến cho người đọc nhiều điều lý thú, bất ngờ.",
+      "mp3": [
+        {
+          "title": "Phần 1",
+          "url": "https://firebasestorage.googleapis.com/v0/b/shop-app-d4dff.appspot.com/o/mp3%2FM%C6%B0%E1%BB%9Di%20v%E1%BA%A1n%20c%C3%A2u%20h%E1%BB%8Fi%20v%C3%AC%20sao%20-%20c%C6%A1%20th%E1%BB%83%20ng%C6%B0%E1%BB%9Di%2FM%C2%B0%C6%AFi%20v%C2%A1n%20c%C3%A2u%20h%C3%8Fi%20v%CC%81%20sao%20-%20C%C2%A1%20th%C4%82%20ng%C2%B0%C6%AFi.MP3?alt=media&token=f00c117f-f1cd-45ed-a5ec-6134782ac33b"
+        },
+        {
+          "title": "Phần 2",
+          "url": "https://firebasestorage.googleapis.com/v0/b/shop-app-d4dff.appspot.com/o/mp3%2FM%C6%B0%E1%BB%9Di%20v%E1%BA%A1n%20c%C3%A2u%20h%E1%BB%8Fi%20v%C3%AC%20sao%20-%20c%C6%A1%20th%E1%BB%83%20ng%C6%B0%E1%BB%9Di%2FM%C2%B0%C6%AFi%20v%C2%A1n%20c%C3%A2u%20h%C3%8Fi%20v%CC%81%20sao%20-%20C%C2%A1%20th%C4%82%20ng%C2%B0%C6%AFi_2.MP3?alt=media&token=f61a184e-ecfd-468e-a820-906f6ee0efcc"
+        },
+        {
+          "title": "Phần 3",
+          "url": "https://firebasestorage.googleapis.com/v0/b/shop-app-d4dff.appspot.com/o/mp3%2FM%C6%B0%E1%BB%9Di%20v%E1%BA%A1n%20c%C3%A2u%20h%E1%BB%8Fi%20v%C3%AC%20sao%20-%20c%C6%A1%20th%E1%BB%83%20ng%C6%B0%E1%BB%9Di%2FM%C2%B0%C6%AFi%20v%C2%A1n%20c%C3%A2u%20h%C3%8Fi%20v%CC%81%20sao%20-%20C%C2%A1%20th%C4%82%20ng%C2%B0%C6%AFi_3.MP3?alt=media&token=4a5e542a-4764-4ddd-8237-dbcac3d85347"
+        },
+        {
+          "title": "Phần 4",
+          "url": "https://firebasestorage.googleapis.com/v0/b/shop-app-d4dff.appspot.com/o/mp3%2FM%C6%B0%E1%BB%9Di%20v%E1%BA%A1n%20c%C3%A2u%20h%E1%BB%8Fi%20v%C3%AC%20sao%20-%20c%C6%A1%20th%E1%BB%83%20ng%C6%B0%E1%BB%9Di%2FM%C2%B0%C6%AFi%20v%C2%A1n%20c%C3%A2u%20h%C3%8Fi%20v%CC%81%20sao%20-%20C%C2%A1%20th%C4%82%20ng%C2%B0%C6%AFi_4.MP3?alt=media&token=babba299-0017-4c2a-b55e-50e7d5b19800"
+        },
+        {
+          "title": "Phần 5",
+          "url": "https://firebasestorage.googleapis.com/v0/b/shop-app-d4dff.appspot.com/o/mp3%2FM%C6%B0%E1%BB%9Di%20v%E1%BA%A1n%20c%C3%A2u%20h%E1%BB%8Fi%20v%C3%AC%20sao%20-%20c%C6%A1%20th%E1%BB%83%20ng%C6%B0%E1%BB%9Di%2FM%C2%B0%C6%AFi%20v%C2%A1n%20c%C3%A2u%20h%C3%8Fi%20v%CC%81%20sao%20-%20C%C2%A1%20th%C4%82%20ng%C2%B0%C6%AFi_5.MP3?alt=media&token=a3a81645-622b-4d19-a46e-b273b34b8928"
+        },
+        {
+          "title": "Phần 6",
+          "url": "https://firebasestorage.googleapis.com/v0/b/shop-app-d4dff.appspot.com/o/mp3%2FM%C6%B0%E1%BB%9Di%20v%E1%BA%A1n%20c%C3%A2u%20h%E1%BB%8Fi%20v%C3%AC%20sao%20-%20c%C6%A1%20th%E1%BB%83%20ng%C6%B0%E1%BB%9Di%2FM%C2%B0%C6%AFi%20v%C2%A1n%20c%C3%A2u%20h%C3%8Fi%20v%CC%81%20sao%20-%20C%C2%A1%20th%C4%82%20ng%C2%B0%C6%AFi_6.MP3?alt=media&token=793c49e5-a5b0-4f87-92a8-ab0ac1a4e1a1"
+        },
+        {
+          "title": "Phần 7",
+          "url": "https://firebasestorage.googleapis.com/v0/b/shop-app-d4dff.appspot.com/o/mp3%2FM%C6%B0%E1%BB%9Di%20v%E1%BA%A1n%20c%C3%A2u%20h%E1%BB%8Fi%20v%C3%AC%20sao%20-%20c%C6%A1%20th%E1%BB%83%20ng%C6%B0%E1%BB%9Di%2FM%C2%B0%C6%AFi%20v%C2%A1n%20c%C3%A2u%20h%C3%8Fi%20v%CC%81%20sao%20-%20C%C2%A1%20th%C4%82%20ng%C2%B0%C6%AFi_7.MP3?alt=media&token=03312ce2-b3c6-4439-b95f-91b9fb0cd816"
+        },
+        {
+          "title": "Phần 8",
+          "url": "https://firebasestorage.googleapis.com/v0/b/shop-app-d4dff.appspot.com/o/mp3%2FM%C6%B0%E1%BB%9Di%20v%E1%BA%A1n%20c%C3%A2u%20h%E1%BB%8Fi%20v%C3%AC%20sao%20-%20c%C6%A1%20th%E1%BB%83%20ng%C6%B0%E1%BB%9Di%2FM%C2%B0%C6%AFi%20v%C2%A1n%20c%C3%A2u%20h%C3%8Fi%20v%CC%81%20sao%20-%20C%C2%A1%20th%C4%82%20ng%C2%B0%C6%AFi_8.MP3?alt=media&token=cdf83f97-5282-4717-b7b0-5c141efd7a76"
+        },
+        {
+          "title": "Phần 9",
+          "url": "https://firebasestorage.googleapis.com/v0/b/shop-app-d4dff.appspot.com/o/mp3%2FM%C6%B0%E1%BB%9Di%20v%E1%BA%A1n%20c%C3%A2u%20h%E1%BB%8Fi%20v%C3%AC%20sao%20-%20c%C6%A1%20th%E1%BB%83%20ng%C6%B0%E1%BB%9Di%2FM%C2%B0%C6%AFi%20v%C2%A1n%20c%C3%A2u%20h%C3%8Fi%20v%CC%81%20sao%20-%20C%C2%A1%20th%C4%82%20ng%C2%B0%C6%AFi_8.MP3?alt=media&token=cdf83f97-5282-4717-b7b0-5c141efd7a76"
+        },
+        {
+          "title": "Phần 10",
+          "url": "https://firebasestorage.googleapis.com/v0/b/shop-app-d4dff.appspot.com/o/mp3%2FM%C6%B0%E1%BB%9Di%20v%E1%BA%A1n%20c%C3%A2u%20h%E1%BB%8Fi%20v%C3%AC%20sao%20-%20c%C6%A1%20th%E1%BB%83%20ng%C6%B0%E1%BB%9Di%2FM%C2%B0%C6%AFi%20v%C2%A1n%20c%C3%A2u%20h%C3%8Fi%20v%CC%81%20sao%20-%20C%C2%A1%20th%C4%82%20ng%C2%B0%C6%AFi_10.MP3?alt=media&token=47ee3052-dc4f-4694-9f50-bff9dce2d940"
+        },
+        {
+          "title": "Phần 11",
+          "url": "https://firebasestorage.googleapis.com/v0/b/shop-app-d4dff.appspot.com/o/mp3%2FM%C6%B0%E1%BB%9Di%20v%E1%BA%A1n%20c%C3%A2u%20h%E1%BB%8Fi%20v%C3%AC%20sao%20-%20c%C6%A1%20th%E1%BB%83%20ng%C6%B0%E1%BB%9Di%2FM%C2%B0%C6%AFi%20v%C2%A1n%20c%C3%A2u%20h%C3%8Fi%20v%CC%81%20sao%20-%20C%C2%A1%20th%C4%82%20ng%C2%B0%C6%AFi_11.MP3?alt=media&token=f7edfa7e-6d0f-400b-8165-07bf5ebcc4fc"
+        },
+        {
+          "title": "Phần 12",
+          "url": "https://firebasestorage.googleapis.com/v0/b/shop-app-d4dff.appspot.com/o/mp3%2FM%C6%B0%E1%BB%9Di%20v%E1%BA%A1n%20c%C3%A2u%20h%E1%BB%8Fi%20v%C3%AC%20sao%20-%20c%C6%A1%20th%E1%BB%83%20ng%C6%B0%E1%BB%9Di%2FM%C2%B0%C6%AFi%20v%C2%A1n%20c%C3%A2u%20h%C3%8Fi%20v%CC%81%20sao%20-%20C%C2%A1%20th%C4%82%20ng%C2%B0%C6%AFi_12.MP3?alt=media&token=5889bbd0-5ca6-45a8-87c0-4c9c541dfa63"
+        }
+      ],
+      "createdAt": 1683125032397,
+      "id": 3
+    },
+    {
+      "title": "Bên Bờ Thiên Mạc",
+      "image": "https://www.nae.vn/ttv/ttv/public/images/story/20d5fb6b2a50c3c452a9b6351e3227e6fe689d4d6497ea4ba79a770b02990345.jpg",
+      "author": "Hà Ân",
+      "year": "----",
+      "listen": 46,
+      "publisher": "NXB Kim Đồng",
+      "genre": [
+        "Lịch sử"
+      ],
+      "description": "Bên bờ Thiên Mạc là tập truyện lịch sử kể về vị tướng Trần Bình Trọng tài năng đã hy sinh anh dũng trong cuộc kháng chiến chống quân Nguyên – Mông lần thứ 2 (năm 1285) khi ông mới 26 tuổi. Nhân vật nổi tiếng trong lịch sử chống xâm lăng của Đại Việt đã được “nhà văn kể chuyện xưa” khắc họa khá dày công trong một tập truyện ngắn về dung lượng này từ cung cách ông ứng xử với nhân dân, quân sỹ đến khí tiết hiên ngang của ông khi sa vào tay giặc. Cuốn sách cũng có nhưng đoạn đặc tả về phong thái uy nghi của Hưng Đạo Vương – Trần Quốc Tuấn, vua Trần Nhân Tông. Ngoài ra chúng ta cũng thấy đâu đó những nhân vất “anh hùng nhân dân” như ông già Màn Trò, chú lính trẻ Hoàng Đỗ.",
+      "mp3": [
+        {
+          "title": "Phần 1",
+          "url": "https://firebasestorage.googleapis.com/v0/b/shop-app-d4dff.appspot.com/o/mp3%2FB%C3%AAn%20b%E1%BB%9D%20Thi%C3%AAn%20M%E1%BA%A1c%2FB%C3%AAn%20b%E1%BB%9D%20thi%C3%AAn%20m%E1%BA%A1c%20(1).mp3?alt=media&token=bdb0ea33-0e68-4fa0-99b3-669e8c61259a"
+        },
+        {
+          "title": "Phần 2",
+          "url": "https://firebasestorage.googleapis.com/v0/b/shop-app-d4dff.appspot.com/o/mp3%2FB%C3%AAn%20b%E1%BB%9D%20Thi%C3%AAn%20M%E1%BA%A1c%2FB%C3%AAn%20b%E1%BB%9D%20thi%C3%AAn%20m%E1%BA%A1c%20(2).mp3?alt=media&token=8f4f424b-3419-4bbd-8a9b-a220c7869aa5"
+        },
+        {
+          "title": "Phần 3",
+          "url": "https://firebasestorage.googleapis.com/v0/b/shop-app-d4dff.appspot.com/o/mp3%2FB%C3%AAn%20b%E1%BB%9D%20Thi%C3%AAn%20M%E1%BA%A1c%2FB%C3%AAn%20b%E1%BB%9D%20thi%C3%AAn%20m%E1%BA%A1c%20(3).mp3?alt=media&token=37e916cd-998e-4682-8aa2-b613f9d4b9e0"
+        },
+        {
+          "title": "Phần 4",
+          "url": "https://firebasestorage.googleapis.com/v0/b/shop-app-d4dff.appspot.com/o/mp3%2FB%C3%AAn%20b%E1%BB%9D%20Thi%C3%AAn%20M%E1%BA%A1c%2FB%C3%AAn%20b%E1%BB%9D%20thi%C3%AAn%20m%E1%BA%A1c%20(4).mp3?alt=media&token=c43e882e-51d3-414f-abce-6df8ebeeaf25"
+        },
+        {
+          "title": "Phần 5 - End",
+          "url": "https://firebasestorage.googleapis.com/v0/b/shop-app-d4dff.appspot.com/o/mp3%2FB%C3%AAn%20b%E1%BB%9D%20Thi%C3%AAn%20M%E1%BA%A1c%2FB%C3%AAn%20b%E1%BB%9D%20thi%C3%AAn%20m%E1%BA%A1c%20(5)End.mp3?alt=media&token=814dcd53-7697-48dd-9831-9b0b69934de5"
+        }
+      ],
+      "createdAt": 1683125623767,
+      "id": 4
     }
   ]
 }

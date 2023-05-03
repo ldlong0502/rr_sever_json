@@ -1,0 +1,68 @@
+@baseUrl = http://localhost:3000/api
+# Books
+# @name getBooks
+GET {{baseUrl}}/audio_books
+
+###
+# @name addnewAudioBook
+POST {{baseUrl}}/audio_books
+Content-Type: application/json
+
+{
+      "title": "Bên Bờ Thiên Mạc",
+      "image": "https://www.nae.vn/ttv/ttv/public/images/story/20d5fb6b2a50c3c452a9b6351e3227e6fe689d4d6497ea4ba79a770b02990345.jpg",
+      "author": "Hà Ân",
+      "year": "----",
+      "listen": 46,
+      "publisher": "NXB Kim Đồng",
+      "genre": [
+        "Lịch sử"
+      ],
+      "description": "Bên bờ Thiên Mạc là tập truyện lịch sử kể về vị tướng Trần Bình Trọng tài năng đã hy sinh anh dũng trong cuộc kháng chiến chống quân Nguyên – Mông lần thứ 2 (năm 1285) khi ông mới 26 tuổi. Nhân vật nổi tiếng trong lịch sử chống xâm lăng của Đại Việt đã được “nhà văn kể chuyện xưa” khắc họa khá dày công trong một tập truyện ngắn về dung lượng này từ cung cách ông ứng xử với nhân dân, quân sỹ đến khí tiết hiên ngang của ông khi sa vào tay giặc. Cuốn sách cũng có nhưng đoạn đặc tả về phong thái uy nghi của Hưng Đạo Vương – Trần Quốc Tuấn, vua Trần Nhân Tông. Ngoài ra chúng ta cũng thấy đâu đó những nhân vất “anh hùng nhân dân” như ông già Màn Trò, chú lính trẻ Hoàng Đỗ.",
+      "mp3": [
+        {
+          "title": "Phần 1",
+          "url": "https://firebasestorage.googleapis.com/v0/b/shop-app-d4dff.appspot.com/o/mp3%2FB%C3%AAn%20b%E1%BB%9D%20Thi%C3%AAn%20M%E1%BA%A1c%2FB%C3%AAn%20b%E1%BB%9D%20thi%C3%AAn%20m%E1%BA%A1c%20(1).mp3?alt=media&token=bdb0ea33-0e68-4fa0-99b3-669e8c61259a"
+        },
+        {
+          "title": "Phần 2",
+          "url": "https://firebasestorage.googleapis.com/v0/b/shop-app-d4dff.appspot.com/o/mp3%2FB%C3%AAn%20b%E1%BB%9D%20Thi%C3%AAn%20M%E1%BA%A1c%2FB%C3%AAn%20b%E1%BB%9D%20thi%C3%AAn%20m%E1%BA%A1c%20(2).mp3?alt=media&token=8f4f424b-3419-4bbd-8a9b-a220c7869aa5"
+        },
+        {
+          "title": "Phần 3",
+          "url": "https://firebasestorage.googleapis.com/v0/b/shop-app-d4dff.appspot.com/o/mp3%2FB%C3%AAn%20b%E1%BB%9D%20Thi%C3%AAn%20M%E1%BA%A1c%2FB%C3%AAn%20b%E1%BB%9D%20thi%C3%AAn%20m%E1%BA%A1c%20(3).mp3?alt=media&token=37e916cd-998e-4682-8aa2-b613f9d4b9e0"
+        },
+        {
+          "title": "Phần 4",
+          "url": "https://firebasestorage.googleapis.com/v0/b/shop-app-d4dff.appspot.com/o/mp3%2FB%C3%AAn%20b%E1%BB%9D%20Thi%C3%AAn%20M%E1%BA%A1c%2FB%C3%AAn%20b%E1%BB%9D%20thi%C3%AAn%20m%E1%BA%A1c%20(4).mp3?alt=media&token=c43e882e-51d3-414f-abce-6df8ebeeaf25"
+        },
+        {
+          "title": "Phần 5 - End",
+          "url": "https://firebasestorage.googleapis.com/v0/b/shop-app-d4dff.appspot.com/o/mp3%2FB%C3%AAn%20b%E1%BB%9D%20Thi%C3%AAn%20M%E1%BA%A1c%2FB%C3%AAn%20b%E1%BB%9D%20thi%C3%AAn%20m%E1%BA%A1c%20(5)End.mp3?alt=media&token=814dcd53-7697-48dd-9831-9b0b69934de5"
+        }
+        
+      ],
+      "createdAt": 0
+}
+
+###
+# @name updateNewBook
+PATCH  {{baseUrl}}/books/7
+Content-Type: application/json
+
+{
+    
+}
+
+###
+# @name deleteBook
+DELETE   {{baseUrl}}/books/8
+Content-Type: application/json
+
+{
+    
+}
+
+
+
+
